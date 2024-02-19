@@ -13,8 +13,8 @@ info:
  course_title: Advanced Data Analysis
  course_number: PUBM 5910
  course_level: Graduate
- course_website: 'https://canvas.asu.edu/'
- course_start_end_dates: August 19 - October 8, 2021
+ course_website: 'https://www.seattleu.edu/artsci/public-administration/mpa/'
+ course_start_end_dates: June - August, 2024
  course_prerequisites:  
  class_meets_when:  XXX  
  class_meets_where:  XXX
@@ -31,8 +31,8 @@ instructor:
    scholar_url: 'https://scholar.google.com/citations?user=PDN7A5sAAAAJ&hl=en'
    linked_in_url:
    office_hours_time: See Schedule
-   office_hours_app_url: ''
-   office_hours_location: 'Zoom' 
+   office_hours_app_url: 'https://outlook.office365.com/owa/calendar/ChengxinXu@redhawks.onmicrosoft.com/bookings/s/l3-iByoRwU2QrIHzj_HUpw2'
+   office_hours_location: '' 
 
 
 textbooks:
