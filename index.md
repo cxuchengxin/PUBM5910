@@ -3,48 +3,37 @@ layout: index
 title: Syllabus
 
 index:
-    title: Foundations of Data Science Part I
+    title: Advanced Data Analysis
     image: data-science.png
-    subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. We offer a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. We will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
+    subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. We will cover data programming fundamentals, data management, analysis, and visualization,. The course is analytically rigorous, but no prior programming experience is assumed.
 
 info:
- program_title: MS in Program Evaluation and Data Analytics
- program_website: https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/
- course_title: Foundations of Data Science Part I
- course_number: CPP 526
+ program_title: Master of Public Administration
+ program_website: https://www.seattleu.edu/artsci/public-administration/mpa/
+ course_title: Advanced Data Analysis
+ course_number: PUBM 5910
  course_level: Graduate
  course_website: 'https://canvas.asu.edu/'
  course_start_end_dates: August 19 - October 8, 2021
  course_prerequisites:  
- class_meets_when:  Asynchronous  
- class_meets_where:  Online
+ class_meets_when:  XXX  
+ class_meets_where:  XXX
  discussion_board_url: 'help/'
 
 instructor:
--  name: YOUR NAME
-   title: Instructor
-   email: EMAIL@asu.edu
-   office_location:
-   website_url: 'www.google.com'
-   github_url:  'https://github.com/'
+-  name: Chengxin Xu
+   title: Assistant Professor
+   email: cxu1@seattleu.edu
+   office_location: CASEY 210-09
+   website_url: 'https://cxuchengxin.github.io/website/'
+   github_url:  'https://cxuchengxin.github.io'
    twitter_url:
-   scholar_url: 'https://scholar.google.com/citations?user=YA43PbsAAAAJ&hl=en&oi=ao'
+   scholar_url: 'https://scholar.google.com/citations?user=PDN7A5sAAAAJ&hl=en'
    linked_in_url:
    office_hours_time: See Schedule
-   office_hours_app_url: 'https://calendly.com'
+   office_hours_app_url: ''
    office_hours_location: 'Zoom' 
--  name: Other Name
-   title: Teaching Assistant
-   email: EMAIL@asu.edu
-   office_location:
-   website_url: 'www.google.com'
-   github_url:  
-   twitter_url:
-   scholar_url: 
-   linked_in_url:
-   office_hours_time: 'Wednesday 3-5pm'
-   office_hours_app_url: 'https://calendly.com'
-   office_hours_location: Zoom
+
 
 textbooks:
 - title: R Cookbook, 2nd Edition
